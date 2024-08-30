@@ -1,1 +1,1 @@
-# Neural-Network_ICP2
+# Neural-Network_ICP2  SHOWED CODE IN THE CLASS
